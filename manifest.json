@@ -1,0 +1,9 @@
+{
+  "name": "Hello world",
+  "version": "1.0.0",
+  "manifest_version": 3,
+  "description": "Hello world",
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
